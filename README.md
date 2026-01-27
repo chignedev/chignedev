@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Edwin+Chigne;Software+Developer+%26+Tech+Creator;Turning+ideas+into+digital+products;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Edwin+Chigne;Software+Developer+%26+Tech+Creator;Turning+ideas+into+digital+products;Welcome+to+my+GitHub+profile!" alt="Typing SVG of Edwin Chigne" />
   </a>
 </h1>
 
@@ -15,7 +15,7 @@
 Hi, I'm **Edwin Chigne** — a Software Developer focused on creating web and mobile applications that make everyday life easier.  
 I enjoy transforming ideas into real products — from prototypes to production — always seeking simplicity, functionality, and great user experience.
 
-In my free time, I write tech articles, experiment with new tools, and launch small projects just for fun.  
+In my free time, I write tech articles, experiment with new tools, and launch small projects.  
 You can check what I’m currently doing on my [**Blog**](https://chigne.com/blog).
 
 ---
@@ -23,14 +23,17 @@ You can check what I’m currently doing on my [**Blog**](https://chigne.com/blo
 ### 🧠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white)
 
 ---
 
@@ -41,15 +44,11 @@ You can check what I’m currently doing on my [**Blog**](https://chigne.com/blo
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chignedev&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chignedev&theme=onedark&margin-w=10&no-frame=true" alt="GitHub Trophies" />
-</p>
-
 ---
 
 ### 🌐 Published Apps
 
-- 📱 [Apps on Play Store](https://play.google.com/store/apps/dev?id=5478969507214153334)
+- 📱 [Edith AI: Tu tutora digital](https://play.google.com/store/apps/details?id=com.tutorialazo.appedith)
 
 [![PlayStore](https://img.shields.io/badge/PlayStore-Chigne%20Dev-green?logo=google-play)](https://play.google.com/store/apps/dev?id=5478969507214153334)
 
@@ -68,7 +67,7 @@ You can check what I’m currently doing on my [**Blog**](https://chigne.com/blo
 
 - 🚀 Improving UX for mobile apps built with Flutter  
 - 🧩 Writing about software design and architecture  
-- 🌱 Building small web tools for developers  
+- 🌱 Building small tools  
 
 ---
 
